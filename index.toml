@@ -141,54 +141,6 @@ file = "config/actuallyadditions.cfg"
 hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
 
 [[files]]
-file = "config/advRocketry/ChemicalReactor.xml"
-hash = "3c87e3db4ccf165a0eadedf822247fa901a7bf627b87f881bd51fb020509a462"
-
-[[files]]
-file = "config/advRocketry/Crystallizer.xml"
-hash = "8237ba90732053ef20881dc2e47adab156914d259d3af4de3f66efd829551811"
-
-[[files]]
-file = "config/advRocketry/CuttingMachine.xml"
-hash = "514a5871122e21d133c99027b3125e475c50aacf3038f2ee58ffc5716b8712d9"
-
-[[files]]
-file = "config/advRocketry/ElectricArcFurnace.xml"
-hash = "c297901f8e5e8a556e5b664c03feb1da8911f4199382f35d16d840c6ea96edd5"
-
-[[files]]
-file = "config/advRocketry/Electrolyser.xml"
-hash = "59b49aef7613e439ffbc0e3bd0382417d395e6470a97ad59abe8c26432720fdf"
-
-[[files]]
-file = "config/advRocketry/Lathe.xml"
-hash = "efebf7408ba21cd1f476a0645a0d7e2368037c8de96adc768d35eb1a0f54054b"
-
-[[files]]
-file = "config/advRocketry/PrecisionAssembler.xml"
-hash = "a9eb5115aba7965a677703dae2d48ab9d7fac604d0f791dd2ad899159c1ba4b2"
-
-[[files]]
-file = "config/advRocketry/RollingMachine.xml"
-hash = "f07f1d82712a7ea1d8fb58ce878fc08ab83f56e499e5381bbb4487f882c411c4"
-
-[[files]]
-file = "config/advRocketry/SmallPlatePress.xml"
-hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
-
-[[files]]
-file = "config/advRocketry/advancedRocketry.cfg"
-hash = "8c7849abeb97fe0c621e8fe495dbb7be54b4d42ca665d834aa7ec24a54e39f37"
-
-[[files]]
-file = "config/advRocketry/asteroidConfig.xml"
-hash = "bca88154702cd6866c82befece0539eb8ac8cc0540bb981b43a732ede25ca75f"
-
-[[files]]
-file = "config/advRocketry/oreConfig.xml"
-hash = "16373fc73f5185845db08203cbdde009fca95f2b1787a47a10b47a3ce72ccfcd"
-
-[[files]]
 file = "config/akashictome.cfg"
 hash = "d391fbd4d704d94d57280e0f5169b3e1b4b3bbc48aea84d3cd0d9293f35307b1"
 
@@ -805,10 +757,6 @@ file = "config/laser_drill_ores/thermalfoundation_ores.json"
 hash = "cafaed3a878a90c9c43a99f276950070b4bdf52b5613eb2f2345c5ff88eb2848"
 
 [[files]]
-file = "config/libvulpes.cfg"
-hash = "da93e5477e9c9c0a5c34c141f7ff1b57cb29c606b7d6443d9ea9f039b217e11e"
-
-[[files]]
 file = "config/littletiles-client.json"
 hash = "e336ad2efd69075a479cf4be7d2c94e945777b89fb8c1c7a251949f016a936e5"
 
@@ -1184,11 +1132,6 @@ hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
 
 [[files]]
-file = "mods/advanced-rocketry.toml"
-hash = "21b2bbbaf642c0fb2de50ef8b20cab75c5e4aea007efe35155247a5d076aff1e"
-metafile = true
-
-[[files]]
 file = "mods/ae2-stuff.toml"
 hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
 metafile = true
@@ -1551,11 +1494,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
-metafile = true
-
-[[files]]
-file = "mods/libvulpes.toml"
-hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
 metafile = true
 
 [[files]]
