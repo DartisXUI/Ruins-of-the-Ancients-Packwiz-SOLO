@@ -1,0 +1,10 @@
+name = "Ruins-of-the-Ancients-Packwiz-SOLO"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c3d35f92a5b9496bc4cef9d978d330ad19ea56573e76c5eee79b386afc1d482"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"

@@ -1,0 +1,14 @@
+name = "World Primer"
+filename = "worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2866/63/worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar"
+hash-format = "murmur2"
+hash = "667950992"
+
+[update]
+[update.curseforge]
+file-id = 2866063
+project-id = 258911
+release-channel = "beta"

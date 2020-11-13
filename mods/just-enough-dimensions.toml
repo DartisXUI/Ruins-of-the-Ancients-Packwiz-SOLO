@@ -1,0 +1,14 @@
+name = "Just Enough Dimensions"
+filename = "justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2932/48/justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar"
+hash-format = "murmur2"
+hash = "2413402329"
+
+[update]
+[update.curseforge]
+file-id = 2932048
+project-id = 254317
+release-channel = "beta"

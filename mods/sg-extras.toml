@@ -1,0 +1,14 @@
+name = "SG Extras"
+filename = "sgextras-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2696/363/sgextras-1.0.jar"
+hash-format = "murmur2"
+hash = "2678565652"
+
+[update]
+[update.curseforge]
+file-id = 2696363
+project-id = 318970
+release-channel = "beta"

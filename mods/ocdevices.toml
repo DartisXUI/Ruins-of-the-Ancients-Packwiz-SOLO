@@ -1,0 +1,14 @@
+name = "OCDevices"
+filename = "ocdevices-MC1.12.2-1.0.0-44.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2824/169/ocdevices-MC1.12.2-1.0.0-44.jar"
+hash-format = "murmur2"
+hash = "3393930117"
+
+[update]
+[update.curseforge]
+file-id = 2824169
+project-id = 311322
+release-channel = "beta"

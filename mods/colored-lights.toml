@@ -1,0 +1,14 @@
+name = "Colored Lights"
+filename = "ColoredLights-1.12.2-v-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2971/969/ColoredLights-1.12.2-v-1.2.1.jar"
+hash-format = "murmur2"
+hash = "832458257"
+
+[update]
+[update.curseforge]
+file-id = 2971969
+project-id = 290304
+release-channel = "beta"

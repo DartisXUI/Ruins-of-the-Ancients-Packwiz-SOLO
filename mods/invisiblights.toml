@@ -1,0 +1,14 @@
+name = "InvisibLights"
+filename = "invisiblights-3.2-10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2802/602/invisiblights-3.2-10.jar"
+hash-format = "murmur2"
+hash = "100755826"
+
+[update]
+[update.curseforge]
+file-id = 2802602
+project-id = 222830
+release-channel = "beta"
