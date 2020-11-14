@@ -1317,6 +1317,11 @@ hash = "43fce4a945472b03284a0c8559d7215775d81a2dc2c01d711ec9a1825232eca7"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.toml"
+hash = "a572379bd1f3f014e991b1747e7792783ad9b73df30e4e622e3f3188c83ed671"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "bd992be23d83c10750367f810540bc7cf19c2a2fb3665c93fac1deb7a7bed7f4"
 metafile = true
@@ -1880,3 +1885,7 @@ metafile = true
 file = "mods/world-primer.toml"
 hash = "ff64bd0c5788e70b1bf805501c7bf54327daaa228d2ba9e8a2bfb973e89ebb91"
 metafile = true
+
+[[files]]
+file = "scripts/recipes.zs"
+hash = "ebf49f4f2a3b56b7d143e05c9163d3e405633bb7ec2d2dc08849e0867b09172a"
