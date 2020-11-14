@@ -1172,6 +1172,11 @@ hash = "4294eab4a53211921fa5ed9599cbdd05e7532d99dd7d332bcfd819c13d484926"
 metafile = true
 
 [[files]]
+file = "mods/armory-expansion.toml"
+hash = "25fb5b33d8c33a5ef34c7e9190d523445f34ac4134398092f1e3a8081e0201d1"
+metafile = true
+
+[[files]]
 file = "mods/aroma1997core.toml"
 hash = "31421272d186b674a6df39752231b49e6b3213f4b624a1e20a5ef449c97809ea"
 metafile = true
@@ -1294,6 +1299,11 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.toml"
 hash = "35b3ec5d512db2cd12af6335203cd318bb78a87ffb7f5d346e8f10dba683e9ca"
+metafile = true
+
+[[files]]
+file = "mods/constructs-armory.toml"
+hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
 metafile = true
 
 [[files]]
