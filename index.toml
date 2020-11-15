@@ -1322,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "a572379bd1f3f014e991b1747e7792783ad9b73df30e4e622e3f3188c83ed671"
+hash = "ec00be4088e5f81977c98458ab2f216f7f8699e969d3a9248cb351030840e5c6"
 metafile = true
 
 [[files]]
@@ -1797,7 +1797,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.toml"
-hash = "2ae0a5e2e38886ff56c5d7c0039fe7528e00d4df08437b67a36fe4ba3f01c3e1"
+hash = "f7389bab7ae54e31cc8b4a376b5c9ef528794128f33fc63e410bbe46c27f03db"
 metafile = true
 
 [[files]]
