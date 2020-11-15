@@ -137,6 +137,10 @@ file = "config/Titles/titles_config.cfg"
 hash = "45ef549fd8aaae540aa143ada73bc97e934fcfe6cf38c6cb3b9f5d64aa4274a1"
 
 [[files]]
+file = "config/Waystones.cfg"
+hash = "ad5c04f5276ca3e6e589d08901f4f7d2c91d4b9cf5299b2fc93290eb978fe6e1"
+
+[[files]]
 file = "config/actuallyadditions.cfg"
 hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
 
@@ -1792,6 +1796,11 @@ hash = "409f0661dbfc7ab38b36715daaa26cb0d7d31c7634715dfa4e077f201ef5d54f"
 metafile = true
 
 [[files]]
+file = "mods/tesseract.toml"
+hash = "2ae0a5e2e38886ff56c5d7c0039fe7528e00d4df08437b67a36fe4ba3f01c3e1"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.toml"
 hash = "439e3f7e6e7fa3160fd46739826258107fb9d465f32b658f6102aabc34a03b37"
 metafile = true
@@ -1852,6 +1861,11 @@ hash = "d172bc2c9d8509a154df80e1b8a158e3edea69374e0ad63dfbde8b9639db689b"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.toml"
+hash = "73541947feda59accf5cc3c03ecb1d1df7232a76feac487ab8e1c97679f7065a"
+metafile = true
+
+[[files]]
 file = "mods/unidict.toml"
 hash = "750c86db5797385533619d2fa26da9dff538f7a3d367be03b8d6fb64eb0cd199"
 metafile = true
@@ -1864,6 +1878,11 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.toml"
 hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+metafile = true
+
+[[files]]
+file = "mods/waystones.toml"
+hash = "c9a6cf19ac94d734c45b85fb48af142c19f60b7dd6d3bf90eacbedeb13a99f4a"
 metafile = true
 
 [[files]]
