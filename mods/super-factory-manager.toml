@@ -1,14 +1,14 @@
 name = "Super Factory Manager ( SFM )"
-filename = "SuperFactoryManager-1.12.2-2.0.24.jar"
+filename = "SuperFactoryManager-1.12.2-2.0.25.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3050/275/SuperFactoryManager-1.12.2-2.0.24.jar"
+url = "https://edge.forgecdn.net/files/3061/425/SuperFactoryManager-1.12.2-2.0.25.jar"
 hash-format = "murmur2"
-hash = "2312871599"
+hash = "2656482489"
 
 [update]
 [update.curseforge]
-file-id = 3050275
+file-id = 3061425
 project-id = 306935
 release-channel = "beta"
