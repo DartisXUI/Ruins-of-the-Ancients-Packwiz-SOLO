@@ -1009,6 +1009,10 @@ file = "config/ruins_config/plains/CastleModified.tml"
 hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
 
 [[files]]
+file = "config/ruins_config/plains/OutpostNew.tml"
+hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
+
+[[files]]
 file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
 hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
 
