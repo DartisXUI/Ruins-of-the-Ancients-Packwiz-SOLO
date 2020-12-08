@@ -1510,6 +1510,11 @@ hash = "763cc1363cda465f505d29915b045af5127c4f0a72119367046cab04423df115"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.toml"
+hash = "8869984ce1cae93208e4526e118d65b18adafa77b8fe8b95787f868ac6bb3e40"
+metafile = true
+
+[[files]]
 file = "mods/jei-integration.toml"
 hash = "5d1f363d9a6daed54fd0d8b30a5951f4d63ecba4e3617a5e442b87d535f42130"
 metafile = true
