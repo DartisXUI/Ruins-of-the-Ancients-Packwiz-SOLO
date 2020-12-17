@@ -905,6 +905,10 @@ file = "config/ruins_config/beaches/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
+
+[[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
@@ -914,11 +918,15 @@ hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
-hash = "4ff63a482ac2cbaf4dbb4af56cc8af46090e81e4cc80f687149ba1b0ff6d70b5"
+hash = "eb104f584265a4fefcb5931463e0bdf0cc34f41e31025ffe00f192929f12e2a0"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
+
+[[files]]
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -931,6 +939,10 @@ hash = "619731ab58ed0d0544fb796f7f97df89b98327814082d51647152bafa6fc1233"
 [[files]]
 file = "config/ruins_config/generic/OreSpire.tml"
 hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
+
+[[files]]
+file = "config/ruins_config/generic/OutpostX.tml"
+hash = "fef8076da6deb53186f09239406c63b1cb83ad57090c36b1295683054487496a"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
