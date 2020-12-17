@@ -905,14 +905,6 @@ file = "config/ruins_config/beaches/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-uru-pdd-gdo.tml"
-hash = "5098758350f5f7c97f7cb5dc7e20ced6a0e0fb5969fb1b780d50dd933754bbea"
-
-[[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
@@ -921,20 +913,12 @@ file = "config/ruins_config/desert/TowerAtlantis.tml"
 hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-gazebodesert-titanium-zpm.tml"
-hash = "13b16ea41fc72b4539adb8336d12880fb00ec2ea8434311e65171352a91edeca"
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
+hash = "4ff63a482ac2cbaf4dbb4af56cc8af46090e81e4cc80f687149ba1b0ff6d70b5"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
-
-[[files]]
-file = "config/ruins_config/forest/dartiscraft-birchoutpost-uru-pdd-gdo.tml"
-hash = "5098758350f5f7c97f7cb5dc7e20ced6a0e0fb5969fb1b780d50dd933754bbea"
-
-[[files]]
-file = "config/ruins_config/forest/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -961,8 +945,20 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
+file = "config/ruins_config/generic/dartiscraft-gazebo-vibranium-zpm.tml"
+hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
+hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
+
+[[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-mk11-typesakyo.tml"
 hash = "95c9f7508bf8f609ffdb392aa685f34fb0a3130b59ee57907cda62b13eaaea7d"
+
+[[files]]
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
+hash = "4a2e8938b2b4d819fbfdf984b3385f9481b2c075fb4797c0112af83dcb0dc73a"
 
 [[files]]
 file = "config/ruins_config/hell/taonasg.tml"
@@ -979,18 +975,6 @@ hash = "88214a92eee6f8f6e6e703416a23a34abafcaf3bc689c1f43cc7072062470fd8"
 [[files]]
 file = "config/ruins_config/jungle/JungleTreePlatform_edit.tml"
 hash = "86f0bc4aa352a57d7be843152815f2d8418cd440836bcaf992ca9b94a78a6b6f"
-
-[[files]]
-file = "config/ruins_config/jungle/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
-file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
-file = "config/ruins_config/jungle_hills/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
 file = "config/ruins_config/mesa/JG_WarTower1Base_Seed_CB_1v12.tml"
@@ -1017,10 +1001,6 @@ file = "config/ruins_config/plains/CastleModified.tml"
 hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
 
 [[files]]
-file = "config/ruins_config/plains/OutpostNew.tml"
-hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
-
-[[files]]
 file = "config/ruins_config/plains/TowerAtlantis.tml"
 hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
@@ -1035,10 +1015,6 @@ hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
 [[files]]
 file = "config/ruins_config/roofed_forest/JG_WarTower1Base_Seed_CB_1v12.tml"
 hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
-
-[[files]]
-file = "config/ruins_config/savannah/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
 file = "config/ruins_config/templateparser/TP_WarTower1A.tml"
