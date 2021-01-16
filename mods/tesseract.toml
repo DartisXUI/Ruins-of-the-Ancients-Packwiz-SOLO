@@ -1,14 +1,14 @@
 name = "Tesseract"
-filename = "tesseract-1.0.15-mc1.12.jar"
+filename = "tesseract-1.0.17-mc1.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3108/719/tesseract-1.0.15-mc1.12.jar"
+url = "https://edge.forgecdn.net/files/3146/184/tesseract-1.0.17-mc1.12.jar"
 hash-format = "murmur2"
-hash = "1653832321"
+hash = "863893719"
 
 [update]
 [update.curseforge]
-file-id = 3108719
+file-id = 3146184
 project-id = 379232
 release-channel = "beta"

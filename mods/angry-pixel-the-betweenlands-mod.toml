@@ -1,14 +1,14 @@
 name = "[ANGRY PIXEL] The Betweenlands"
-filename = "TheBetweenlands-3.7.1-universal.jar"
+filename = "TheBetweenlands-3.7.2-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3099/119/TheBetweenlands-3.7.1-universal.jar"
+url = "https://edge.forgecdn.net/files/3148/242/TheBetweenlands-3.7.2-universal.jar"
 hash-format = "murmur2"
-hash = "3538451540"
+hash = "140648905"
 
 [update]
 [update.curseforge]
-file-id = 3099119
+file-id = 3148242
 project-id = 243363
 release-channel = "beta"

@@ -3,7 +3,7 @@ name = "Ruins-of-the-Ancients-Packwiz-SOLO"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4d551577ad4f1dd1203d0e717b2e014d755258d8079c29ee3ec838dd4ea54fb9"
+hash = "053f908a0c3f1ab4a42067eaee2dcfeff1cc0f6afa6c155724550a21b277ca03"
 
 [versions]
 forge = "14.23.5.2854"
