@@ -965,8 +965,8 @@ file = "config/ruins_config/generic/dartiscraft-gazebo-vibranium-zpm.tml"
 hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
-hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
+file = "config/ruins_config/generic/dartiscraft-seedship-final.tml"
+hash = "b7adcaa644a3db0282dc22b5e343b6a9f685f044dd6f1c0f2e4b459ac06b72f1"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
