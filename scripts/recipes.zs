@@ -3,6 +3,8 @@
 //#Remove
 //Don't touch me!
 //#Add
+recipes.addShapeless(<minecraft:iron_ore>, [<minecraft:stone>,<ore:dustIron>,<ore:dustIron>,<ore:dustIron>]);
+furnace.setFuel(<sgcraft:naquadah>, 16000);
 recipes.addShapeless(<woot:stygianirondust> * 3, [<minecraft:soul_sand>,<minecraft:netherrack>,<woot:stygianironore>,<woot:yahhammer>]);
 recipes.addShapeless(<appliedenergistics2:material>, [<orecore:quartz>]);
 recipes.addShapeless(<appliedenergistics2:quartz_ore>, [<orecore:quartz_ore>]);
