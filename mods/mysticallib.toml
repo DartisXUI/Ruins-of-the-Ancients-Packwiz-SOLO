@@ -1,14 +1,14 @@
 name = "MysticalLib"
-filename = "mysticallib-1.12.2-1.10.0.jar"
+filename = "mysticallib-1.12.2-1.11.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3243/257/mysticallib-1.12.2-1.10.0.jar"
+url = "https://edge.forgecdn.net/files/3430/271/mysticallib-1.12.2-1.11.0.jar"
 hash-format = "murmur2"
-hash = "2360260487"
+hash = "2849455101"
 
 [update]
 [update.curseforge]
-file-id = 3243257
+file-id = 3430271
 project-id = 277064
 release-channel = "beta"

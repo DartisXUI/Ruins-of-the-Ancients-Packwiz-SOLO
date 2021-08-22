@@ -1,14 +1,14 @@
 name = "Draconic Evolution"
-filename = "Draconic-Evolution-1.12.2-2.3.27.353-universal.jar"
+filename = "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3051/542/Draconic-Evolution-1.12.2-2.3.27.353-universal.jar"
+url = "https://edge.forgecdn.net/files/3431/261/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar"
 hash-format = "murmur2"
-hash = "1913968680"
+hash = "3391923374"
 
 [update]
 [update.curseforge]
-file-id = 3051542
+file-id = 3431261
 project-id = 223565
 release-channel = "beta"
