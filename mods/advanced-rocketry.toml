@@ -1,14 +1,14 @@
 name = "Advanced Rocketry"
-filename = "AdvancedRocketry-1.12.2-2.0.0-256-universal.jar"
+filename = "AdvancedRocketry-1.12.2-2.0.0-257-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3487/193/AdvancedRocketry-1.12.2-2.0.0-256-universal.jar"
+url = "https://edge.forgecdn.net/files/3587/70/AdvancedRocketry-1.12.2-2.0.0-257-universal.jar"
 hash-format = "murmur2"
-hash = "990908401"
+hash = "3036432213"
 
 [update]
 [update.curseforge]
-file-id = 3487193
+file-id = 3587070
 project-id = 236542
 release-channel = "beta"
